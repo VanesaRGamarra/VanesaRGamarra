@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Testing**
 
-- 👨‍💻 All of my projects are available at [All this is going to get better, it has to be excellent!](All this is going to get better, it has to be excellent!)
+- 👨‍💻 All of my projects are available at All this is going to get better, it has to be excellent! 
 
 - 💬 Ask me about **UI UX design**
 
